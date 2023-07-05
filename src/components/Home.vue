@@ -156,7 +156,7 @@ Deep dive into 2Cs of Selling (6 hr)</h5>
     <div class="col">
        <img src="../assets/logo.png" alt="" >
 
-<p align="left">A – 7 & 8, 4th Floor, Srushti Apartments<br>
+<p align="left m-2">A – 7 & 8, 4th Floor, Srushti Apartments<br>
 ,Opp Union Bank Of INDIA, Baner Road,<br>
 Pune – 411007 Maharashtra, India.</p>
     </div>
