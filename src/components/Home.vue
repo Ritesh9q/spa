@@ -21,7 +21,7 @@
 
 <div class="container">
   <div class="card-group">
-  <div class="card">
+  <div class="card m-2">
     <img src="../assets/s1.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 align="left" class="card-title">
@@ -33,7 +33,7 @@ Deep dive into 2Cs of Selling (6 hr)</h5>
       <button class="btn btn-primary" style="float:right">Read More</button>
     </div>
   </div>
-  <div class="card">
+  <div class="card m-2">
     <img src="../assets/s2.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 align="left" class="card-title">Contemporary Leadership (6 hr)</h5>
@@ -44,7 +44,7 @@ Deep dive into 2Cs of Selling (6 hr)</h5>
       <button class="btn btn-primary" style="float:right">Read More</button>
     </div>
   </div>
-  <div class="card">
+  <div class="card m-2">
     <img src="../assets/s3.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 align="left" class="card-title">Career in Credit Management(6 hr)</h5>
@@ -55,7 +55,7 @@ Deep dive into 2Cs of Selling (6 hr)</h5>
       <button class="btn btn-primary" style="float:right">Read More</button>
     </div>
   </div>
-    <div class="card">
+    <div class="card m-2">
     <img src="../assets/s4.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 align="left" class="card-title">Lunge into the World of Fintech (8 hr)</h5>
